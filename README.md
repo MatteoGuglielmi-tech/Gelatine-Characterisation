@@ -1,8 +1,6 @@
-  
-# Ultrasound techniques for medical applications assignment
+# Gelatine characterisation of a phantom model
 
 <!--toc:start-->
-- [Ultrasound techniques for medical applications assignment](#ultrasound-techniques-for-medical-applications-assignment)
   - [Problem Statement](#problem-statement)
   - [Results](#results)
 <!--toc:end-->
